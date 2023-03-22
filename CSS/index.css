@@ -1,0 +1,114 @@
+/*font settings*/
+h1{
+    font-size: 46px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+}
+h2{
+    font-size: 36px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+}
+h3{
+    font-size: 24px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+}
+h4{
+    font-size: 14px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+}
+p{
+    font-size: 20px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+}
+/*tags*/
+.inline-block-tagline {
+    display: inline-block;
+    padding-left: 200px;
+    font-size: 64px;
+    
+}
+
+.header-logo {
+    display: inline-block;
+    margin-right: auto;
+    margin-bottom: 0px;
+}
+
+
+.footerLinks { 
+    display: inline-block;
+    margin-top: 100px;
+    margin-left: 100px;
+    padding: 0;
+    
+  }
+  
+  .footer-links li {
+    display: inline-block;
+    font-size: 24px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    margin: 5px;
+    
+  }
+
+  .footer-logo{
+    display: inline-block;
+    float: right;
+  }
+
+.skill-block {
+    background-color: aqua;
+}
+
+.nav-links li {
+    display: inline-block;
+    font-size: 24px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    margin: 5px;
+  }
+  .navLinks{
+    display: inline-block;
+    margin-left: 32%;
+  }
+
+  /*homework 20 additions*/
+  .card{
+    display: inline-block;
+   margin-left: 35%;
+    width: 700px;
+    height: 400px;
+    margin-bottom: 100px;
+    border-radius: 20px;
+  }
+
+  .card-body{
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    background-color: #DBB4CB;
+    border-radius: 20px;
+  }
+
+  .card-img-top{
+    border-radius: 20px;
+  }
+
+  .caseStudy{
+    padding: 50px;
+  }
+
+ /* .btn-primary{
+    background-color: #87A9E1;
+    
+  }*/
